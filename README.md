@@ -1,1 +1,3 @@
 # WeatherRadarEchoClassfication
+
+降水回波数据选取雷达站组合反射率的图像，降水回波图像分为层状云、对流云、混合云降水和非降水回波四类
